@@ -360,3 +360,4 @@ Now everything works as expected. Good job, we just implemented a React modal!
 
 - [React: Communicate Between Components](https://facebook.github.io/react/tips/communicate-between-components.html)
 - [Autobinding, React and ES6 Classes](http://www.ian-thomas.net/autobinding-react-and-es6-classes/)
+<3
